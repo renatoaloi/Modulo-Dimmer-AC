@@ -138,9 +138,9 @@
 <circle x="56.954" y="28.016" radius="0.71841875" width="0.4064" layer="21"/>
 <circle x="57.716" y="27.254" radius="0.254" width="0.4064" layer="21"/>
 <text x="25.4" y="17.526" size="1.016" layer="27" font="vector" ratio="15" rot="R90">TLP620</text>
-<dimension x1="0" y1="29.708" x2="62.992" y2="29.718" x3="31.495596875" y3="32.253159375" layer="27"/>
-<dimension x1="0" y1="0" x2="0" y2="29.708" x3="-3.556" y3="14.854" layer="27"/>
 <text x="22" y="1" size="1.016" layer="27" font="vector" ratio="15">Plataforma Supervisório</text>
+<dimension x1="0" y1="29.708" x2="0" y2="0" x3="-3.81" y3="14.854" layer="47"/>
+<dimension x1="0" y1="29.708" x2="63.043" y2="29.708" x3="31.5215" y3="33.02" layer="47"/>
 </plain>
 <libraries>
 <library name="con-ptr500">
